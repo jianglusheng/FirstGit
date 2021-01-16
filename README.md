@@ -6,4 +6,4 @@ second change
 
 remote test
 
-create a new branch named dev
+create a new branch named dev is quick and simple
